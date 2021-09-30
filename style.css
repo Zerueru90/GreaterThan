@@ -4,9 +4,13 @@ a{
 
 #person{
     padding-top: 1%;
-    border-style:solid;
+    border-style:double;
     border-color:darkgreen;
-    width: 50%;
+    width: 30%;
+    margin: 0 auto;
+
+    display: grid;
+    grid-template-columns:15% 40% 25% 25%;
 }
 
 .info{
