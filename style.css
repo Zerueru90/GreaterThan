@@ -1,0 +1,14 @@
+a{
+    font-size: large;
+}
+
+#person{
+    padding-top: 1%;
+    border-style:solid;
+    border-color:darkgreen;
+    width: 50%;
+}
+
+.info{
+    padding-left: 2%;
+}
